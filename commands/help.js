@@ -5,9 +5,9 @@ const path = require('path');
 async function helpCommand(sock, chatId, channelLink) {
     const helpMessage = `
 ╔═══════════════════╗
-   *🤖 ${settings.botName || 'SNOWBIRD-XMD'}*  
+   *🤖 ${settings.botName || 'SEXY-XMD'}*  
    Version: *${settings.version || '1.0.0'}*
-   CREATOR ${settings.botOwner || 'SNOWBIRD'}
+   CREATOR ${settings.botOwner || '🧝‍♂️Makamesco𝐃𝐞𝐯🧝‍♂️'}
    YT : ${global.ytch}
 ╚═══════════════════╝
 
@@ -144,7 +144,7 @@ async function helpCommand(sock, chatId, channelLink) {
 ║ ➤ .repo
 ╚═══════════════════╝
 
-POWERED BY SNOWBIRD 🌍:`;
+POWERED BY 🧝‍♂️MAKAMESCO 𝐃𝐞𝐯🧝‍♂️ 🌍:`;
 
     try {
         const imagePath = path.join(__dirname, '../assets/bot_image.jpg');
@@ -159,8 +159,8 @@ POWERED BY SNOWBIRD 🌍:`;
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420227773494@newsletter',
-                        newsletterName: 'SNOWBIRD XMD by Mr SNOWBIRD',
+                        newsletterJid: '120363418628641913@newsletter',
+                        newsletterName: 'MAKAMESCO DIGITALSOLUTIONS',
                         serverMessageId: -1
                     }
                 }
@@ -173,8 +173,8 @@ POWERED BY SNOWBIRD 🌍:`;
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420227773494@newsletter',
-                        newsletterName: 'SNOWBIRD XMD by Mr SNOWBIRD',
+                        newsletterJid: '120363418628641913@newsletter',
+                        newsletterName: 'MAKAMESCO DIGITALSOLUTIONS,
                         serverMessageId: -1
                     } 
                 }
