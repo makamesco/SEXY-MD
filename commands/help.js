@@ -160,7 +160,7 @@ POWERED BY 🧝‍♂️MAKAMESCO 𝐃𝐞𝐯🧝‍♂️ 🌍:`;
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363418628641913@newsletter',
-                        newsletterName: 'MAKAMESCO DIGITALSOLUTIONS',
+                        newsletterName: 'SEXY-XMD',
                         serverMessageId: -1
                     }
                 }
@@ -174,7 +174,7 @@ POWERED BY 🧝‍♂️MAKAMESCO 𝐃𝐞𝐯🧝‍♂️ 🌍:`;
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363418628641913@newsletter',
-                        newsletterName: 'MAKAMESCO DIGITALSOLUTIONS,
+                        newsletterName: 'SEXY-MD',
                         serverMessageId: -1
                     } 
                 }
