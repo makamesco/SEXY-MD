@@ -2,7 +2,7 @@ async function githubCommand(sock, chatId) {
     const repoInfo = `*🤖 SEXY XMD*
 
 *📂 GitHub Repository:*
-https://github.com/mesh-matheka/Makamesco_md-
+https://github.com/mesh-matheka/Makamesco_md
 
 *📢 MAIN CHANNEL:*
 https://whatsapp.com/channel/0029VbAEL9r5vKA7RCdnYG0S
